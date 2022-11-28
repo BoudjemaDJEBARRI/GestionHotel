@@ -14,7 +14,7 @@
 				value="jdbc:mysql://localhost:3306/hotel5" />
 			<property name="jakarta.persistence.jdbc.user" value="root" />
 			<property name="jakarta.persistence.jdbc.password"
-				value="root" />
+				value="******" />
 			<!-- Laissez cette propriété sauf si vous savez ce que vous faites -->
 			<property name="hibernate.hbm2ddl.auto" value="update" />
 			
